@@ -1,3 +1,8 @@
+## 5.0.5
+* Ported back the changes that are not related to the nullability from the 6.0.1 of the upstream repository
+* Updating `analyzer` to `^7.0.0`
+* Updating `source_gen` to `^2.0.0`
+
 ## 5.0.4
 * Updating `analyzer` to `>=2.0.0 <7.0.0` (thanks [@shilangyu](https://github.com/shilangyu)).
 
